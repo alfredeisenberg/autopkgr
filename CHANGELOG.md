@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file. This projec
 
 ### Added
 - Spanish localization. (big thanks to [@luisgiraldo](https://github.com/luisgiraldo) for translating!)
+- The ability to right-click on a recipe override and "Update Trust Info" (requires AutoPkg 1.0.0 or higher).
 
 ### Changed
 - Updated read me to reflect Jamf rebranding.
